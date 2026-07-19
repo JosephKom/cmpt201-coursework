@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <uthash.h>
-#include <string.h> // For strcmp
+#include <string.h> 
 
 #define THREAD_COUNT 3
 typedef const char *word_t;
